@@ -1,7 +1,7 @@
 
-I COULD LOG PODS FROM WORKERS!!!!! Vagrant create two interfaces
+K8S LOCAL WITH VAGRANT-ANSIBLE-VIRTUALBOX 
 ------------------------------------------------------------------------------
-
+Vagrant create two interfaces
 https://medium.com/@joatmon08/playing-with-kubeadm-in-vagrant-machines-part-2-bac431095706
 
 vi /etc/systemd/system/kubelet.service.d/10-kubeadm.conf
